@@ -1,9 +1,12 @@
-# Your Project's Title...
-Your project's description...
+# EDS - AEM Site as a Content Source
+This project implements a new Adobe Experience Manager (AEM) project, authored in Universal Editor and published to Edge Delivery.
 
 ## Environments
 - Preview: https://main--eds-aem--robertoramos-accenture.aem.page/
 - Live: https://main--eds-aem--robertoramos-accenture.aem.live/
+
+## Content Source
+- https://author-p11300-e47725.adobeaemcloud.com/ui#/aem/sites.html/content/eds-aem-site
 
 ## Documentation
 
@@ -12,6 +15,7 @@ Before using the aem-boilerplate, we recommend you to go through the documentati
 2. [Universal Editor Tutorial](https://www.aem.live/developer/ue-tutorial)
 3. [Component Model Definitions](https://www.aem.live/developer/component-model-definitions)
 4. [Authoring Path Mapping](https://www.aem.live/developer/authoring-path-mapping)
+5. [Set Up AEM Sites as a Content Source](https://www.aem.live/developer/ue-tutorial)
 
 ## Prerequisites
 
