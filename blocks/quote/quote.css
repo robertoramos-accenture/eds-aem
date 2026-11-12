@@ -28,3 +28,15 @@
     width: 30px;
     background-color: darkgray;
 }
+
+.block.quote.bg-red > div:last-child > div::after {
+    background-color: rgb(180, 81, 81);
+}
+
+.block.quote.bg-green > div:last-child > div::after {
+    background-color: rgb(106, 178, 123);
+}
+
+.block.quote.bg-blue > div:last-child > div::after {
+    background-color: rgb(74, 82, 235);
+}
