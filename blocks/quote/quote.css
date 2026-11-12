@@ -7,15 +7,15 @@
 }
 
 .block.quote.bg-red {
-    background-color: rgb(180, 81, 81);
+    background-color: #b45151;
 }
 
 .block.quote.bg-green {
-    background-color: rgb(106, 178, 123);
+    background-color: #6ab27b;
 }
 
 .block.quote.bg-blue {
-    background-color: rgb(74, 82, 235);
+    background-color: #4a52eb;
 }
 
 .block.quote blockquote {
