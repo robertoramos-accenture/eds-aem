@@ -12,7 +12,7 @@ function decorateAccordion(el) {
   });
 
   // Remove the hr
-  el.querySelectorAll(':scope hr').remove();
+  el.querySelectorAll(':scope hr').forEach(node => node.remove());
 }
 
 const els = document.querySelectorAll('.accordion');
