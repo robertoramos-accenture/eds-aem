@@ -31,6 +31,7 @@
 
 .accordion .item-content {
   display: none;
+  margin: 0;
   grid-template-columns: 1fr 1fr;
   gap: 12px;
   padding: 12px;
