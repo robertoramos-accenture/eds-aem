@@ -1,5 +1,4 @@
 .accordion {
-  background: #EFEFEF;
   border: 1px solid #ddd;
   border-radius: 6px;
 }
@@ -7,6 +6,7 @@
 .accordion .item-title {
   cursor: pointer;
   padding: 12px;
+  background: #ddd;
   border-bottom: 1px solid #ddd;
   display: flex;
   justify-content: space-between;
@@ -23,10 +23,6 @@
   transform: rotate(-45deg) translateY(-50%);
   transition: transform .1s ease;
   content: '';
-}
-
-.accordion .item-title.open {
-  background: #ddd;
 }
 
 .accordion .item-title.open::after {
