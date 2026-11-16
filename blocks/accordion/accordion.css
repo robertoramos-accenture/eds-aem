@@ -6,7 +6,7 @@
 .accordion .item-title {
   cursor: pointer;
   padding: 12px;
-  background: #ddd;
+  background: #EFEFEF;
   border-bottom: 1px solid #ddd;
   display: flex;
   justify-content: space-between;
