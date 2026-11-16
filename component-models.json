@@ -259,5 +259,32 @@
         ]
       }
     ]
+  },
+  {
+    "id": "accordion",
+    "fields": [
+      {
+        "component": "container",
+        "name": "items",
+        "multi": true,
+        "fields" : [
+          {
+            "component": "text",
+            "valueType": "string",
+            "name": "title",
+            "label": "Title",
+            "titleType": "h3",
+            "value": ""
+          },
+          {
+            "component": "richtext",
+            "valueType": "string",
+            "name": "content",
+            "label": "Conente",
+            "value": ""
+          }
+        ]
+      }
+    ]
   }
 ]
