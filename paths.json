@@ -1,0 +1,15 @@
+{
+  "mappings": [
+    "/content/eds-aem-site/:/",
+    "/content/dam/site/:/assets/",
+    "/content/eds-aem-site/redirects:/redirects",
+    "/content/dam/ds-aem-site/favicon.ico:/favicon.ico"
+  ],
+  "includes": [
+    "/content/eds-aem-site/",
+    "/content/dam/eds-aem-site/"
+  ],
+  "excludes": [
+    "/content/eds-aem-site/**/drafts/**"
+  ]
+}
