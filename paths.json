@@ -3,7 +3,7 @@
     "/content/eds-aem-site/:/",
     "/content/dam/site/:/assets/",
     "/content/eds-aem-site/redirects:/redirects",
-    "/content/dam/ds-aem-site/favicon.ico:/favicon.ico",
+    "/content/dam/ds-aem-site/favicon.svg:/favicon.svg",
     "/content/ds-aem-site/Taxonomy:/taxonomy.json"
   ],
   "includes": [
